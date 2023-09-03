@@ -3,7 +3,9 @@ CSC 1351 Video Game Project
 
 Faris Khattak
 CSC 1351 Final Project based on BasicGraphics
+
 BASICGRAPHICS PACKAGE NOT FOR PUBLIC USE
+
 5/5/22
 
 Game Name: Galaga 2.0
